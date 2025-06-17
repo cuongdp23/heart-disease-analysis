@@ -45,4 +45,4 @@ Matplotlib, Seaborn
 Jupyter Notebook / Google Colab
 
 ---
-⭐ This is an educational project built during my learning process, and I’m actively improving it as I grow.
+⭐ This project was developed during my learning journey and reflects my ability to apply concepts into practice. It continues to be improved as I grow
